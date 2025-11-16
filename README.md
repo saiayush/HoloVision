@@ -19,9 +19,9 @@ using state-of-the-art technology.
 
 ## Tools and technologies
 Programming Languages: Python, C++
-Libraries: Pytorch, Keras, ITK, VTK, NumPy, Pandas
-Technologies: CUDA, Unity, Augmented Reality, Jupyter Notebook, 3D Slicer, SolidWorks
-Model Architecture : Semantic Segmentation using UNet
+Libraries & Frameworks: PyTorch, Keras, ITK, VTK, NumPy, Pandas
+Technologies & Tools: CUDA, Unity, Augmented Reality, Jupyter Notebook, 3D Slicer, SolidWorks
+Model Architecture: U-Net for semantic segmentation
 
 ## Block Diagram
 <img width="867" height="721" alt="Screenshot 2025-11-16 145855" src="https://github.com/user-attachments/assets/11cca22a-b184-4e22-9f42-8873c9837eef" />
