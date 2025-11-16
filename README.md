@@ -26,8 +26,12 @@ Model Architecture: U-Net for semantic segmentation
 ## Block Diagram
 <img width="867" height="721" alt="Screenshot 2025-11-16 145855" src="https://github.com/user-attachments/assets/11cca22a-b184-4e22-9f42-8873c9837eef" />
 
+## Result
+AR Modelof the brain with the segmented tumor cells are coloured in red, green and blue based in their cells. There were two type of AR developed - Marker based and Location based
+an<img width="1838" height="1017" alt="Screenshot 2025-11-16 153301" src="https://github.com/user-attachments/assets/9e7d810c-4f44-4abf-8d2c-359e465dbe67" />
+<img width="1644" height="1100" alt="Screenshot 2025-11-16 153054" src="https://github.com/user-attachments/assets/9bb7e0e2-711f-424b-9fda-66adfafb3acc" />
 
 ## Documentation
-To know the complete documentation access the report.pdf file
+For the complete documentation access the report.pdf file
 
 ## Note : The project was completed in Linux environment; original source code is no longer available.
